@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AM Store</string>
+    <string name="usernameTextView">Username</string>
+    <string name="passwordTextView">Password</string>
+    <string name="loginButton" >Log In</string>
+    <string name="loginTextView" >Username : %1$s , Password : %2$s</string>
+</resources>

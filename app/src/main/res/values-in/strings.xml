@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="usernameTextView">Nama Pengguna</string>
+    <string name="passwordTextView">Kata Sandi</string>
+    <string name="loginButton" >Masuk</string>
+    <string name="loginTextView" >Nama Pengguna : %1$s , Kata Sandi : %2$s</string>
+</resources>
